@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "my-app",
-    "slug": "my-app",
+    "slug": "app-agenda",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -48,7 +48,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "f01fb7d1-604b-4799-a7fd-4d06f593f8b9"
+        "projectId": "69f633bb-9b3e-47c1-929a-81ee733e8558"
       }
     },
     "runtimeVersion": {
@@ -56,6 +56,7 @@
     },
     "updates": {
       "url": "https://u.expo.dev/f01fb7d1-604b-4799-a7fd-4d06f593f8b9"
-    }
+    },
+    "owner": "victormcd"
   }
 }
